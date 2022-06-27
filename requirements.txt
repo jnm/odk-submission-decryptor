@@ -2,6 +2,6 @@
 ### HEY! You'll need OpenSSL 1.0.2 or later! ###
 ################################################
 
-cryptography==1.5.2
-lxml==3.6.4
+cryptography==37.0.2
+lxml==4.9.0
 ipython
